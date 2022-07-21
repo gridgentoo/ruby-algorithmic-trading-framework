@@ -31,7 +31,7 @@ GEM
       atomic (>= 1.1.7, < 2)
     typhoeus (0.6.7)
       ethon (~> 0.6.2)
-    tzinfo (0.3.39)
+    tzinfo (0.3.61)
 
 PLATFORMS
   ruby
