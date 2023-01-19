@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'activesupport', '~> 4.0.4'
+gem 'activesupport', '~> 6.1.7'
 gem 'frappuccino', '~> 0.2.0'
 gem 'typhoeus', '~> 0.6.7'
 
